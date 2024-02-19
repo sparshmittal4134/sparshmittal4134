@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparshmittal4134
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning CPP
 - 📫 How to reach me sparshmittal4134@gmail.com
 
 <!---
